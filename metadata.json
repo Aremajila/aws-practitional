@@ -1,0 +1,6 @@
+{
+  "name": "AWS Foundation Tracker",
+  "description": "An interactive study planner, progress tracker, flashcard and exam engine for the AWS Certified Cloud Practitioner (CLF-C02) certification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
